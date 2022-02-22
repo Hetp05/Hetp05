@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hetp05
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning HTME & CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at hetp0409@icloud.com
 
