@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hetp</h1>
 <h3 align="center">« My to-do list is usually doesn’t depend on time but rather on my mood. Just Kidding :) » ― Me, Hetp</h3>
 
+![ coding gif](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 - 👀 I’m interested in web development
 
 - 🔭 I’m currently working on [Word Writer 2.0](https://github.com/Hetp05/Word-Writer)
