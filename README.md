@@ -9,7 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://hetp05.github.io/hetp/](https://hetp05.github.io/hetp/)
 
+<!---
 - 📫 How to reach me **hetp0409@icloud.com**
+--->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
