@@ -1,31 +1,30 @@
-<h1 align="center">Hi 👋, I'm Hetp</h1>
-<h3 align="center">« My to-do list is usually doesn’t depend on time but rather on my mood. Just Kidding :) » ― Me, Hetp</h3>
+# Hi, I'm Het PATEL 👋👨‍💻
 
-![ coding gif](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+I am an 18 year old high school student based in ``Paris``. I am looking build a career in ``Design web engineering`` in fintech industry (that was too specific 😅) or just go with the vibe depending on the evolotion of technolgies. I can make websites in HTML and CSS but i'm trying learn frontend web devellopement with ``NestJS`` and ``Tailwind CSS``.
 
-- 👀 I’m interested in web development
+I aslo love making simple games with ``GDscript`` in ``Godot Engine``. I made pixel art in ``Aseprite`` and simple OST music in ``FL Studio`` for my game.
 
-- 🔭 I’m currently working on [Word Writer 2.0](https://github.com/Hetp05/Word-Writer)
+## Skills
 
-- 👨‍💻 All of my projects are available at [https://hetp05.github.io/hetp/](https://hetp05.github.io/hetp/)
+- HTML5
 
-<!---
-- 📫 How to reach me **hetp0409@icloud.com**
---->
+- CSS3
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hetendra3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hetendra3" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/het plays" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="het plays" height="30" width="40" /></a>
-</p>
+- GDscript
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40" align="center"/> </a> </p>
+## Projects
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hetp05&show_icons=true&locale=en&layout=compact" alt="hetp05" /></p>
+- [Personal Portfolio](https://hetpatel.web.app/) - A simple website built with``NextJS`` & ``Tailwind CSS`` to show my projects and experience.
 
+- [Xcode theme for VSCode](https://github.com/Hetp05/xcode-theme-for-vscode) - A theme to make your vs code more beautiful with``SF Symbols``.
 
-<!---
-Hetp05/Hetp05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- [A Gentle Breeze](https://x.com/het_dev/status/1883214380273377711) - A simple game made with``GDscript`` in 16 by 16 ``pixel art`` and a simple ``OST music``.
+
+## Connect with me
+
+- [Mail](mailto:hetpatel.contact@gmail.com)
+
+- [X](https://x.com/het_dev)
+
+- [Youtube](https://www.youtube.com/@het_dev)
+
