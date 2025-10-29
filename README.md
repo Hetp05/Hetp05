@@ -1,30 +1,40 @@
-# Hi, I'm Het PATEL 👋👨‍💻
+# 👋 Hi, I'm **Het PATEL** 👨‍💻
 
-I am an 18 year old high school student based in ``Paris``. I am looking build a career in ``Design web engineering`` in fintech industry (that was too specific 😅) or just go with the vibe depending on the evolotion of technolgies. I can make websites in HTML and CSS but i'm trying learn frontend web devellopement with ``NestJS`` and ``Tailwind CSS``.
+I’m an 18-year-old high school student based in **Paris**, passionate about technology, design, and creativity.
 
-I aslo love making simple games with ``GDscript`` in ``Godot Engine``. I made pixel art in ``Aseprite`` and simple OST music in ``FL Studio`` for my game.
+I’m currently exploring **web design engineering**, aiming to build a career in the **fintech industry** (yes, a bit specific 😅) — but I’m also open to going with the flow as technology evolves.
 
-## Skills
+Right now, I can build websites using **HTML** and **CSS**, and I’m learning **frontend development** with **Next.js** and **Tailwind CSS**.
 
-- HTML5
+When I’m not working on web projects, I love making **simple indie games** using **GDscript** in **Godot Engine**. I also enjoy creating **pixel art** in **Aseprite** and composing **game soundtracks** in **FL Studio**.
 
-- CSS3
+---
 
-- GDscript
+## 🧠 Skills
 
-## Projects
+* HTML5
+* CSS3
+* GDscript
 
-- [Personal Portfolio](https://hetpatel.web.app/) - A simple website built with``NextJS`` & ``Tailwind CSS`` to show my projects and experience.
+*(Currently learning Next.js & Tailwind CSS)*
 
-- [Xcode theme for VSCode](https://github.com/Hetp05/xcode-theme-for-vscode) - A theme to make your vs code more beautiful with``SF Symbols``.
+---
 
-- [A Gentle Breeze](https://x.com/het_dev/status/1883214380273377711) - A simple game made with``GDscript`` in 16 by 16 ``pixel art`` and a simple ``OST music``.
+## 🚀 Projects
 
-## Connect with me
+* **[Personal Portfolio](https://hetpatel.web.app/)**
+  A minimalist website built with **Next.js** & **Tailwind CSS** to showcase my projects and experiences.
 
-- [Mail](mailto:hetpatel.contact@gmail.com)
+* **[Xcode Theme for VSCode](https://github.com/Hetp05/xcode-theme-for-vscode)**
+  A clean and modern theme inspired by **SF Symbols** — make your VS Code look ✨beautiful✨.
 
-- [X](https://x.com/het_dev)
+* **[A Gentle Breeze](https://x.com/het_dev/status/1883214380273377711)**
+  A calm and cozy 16×16 **pixel art** game made with **GDscript**, featuring original **OST music**.
 
-- [Youtube](https://www.youtube.com/@het_dev)
+---
 
+## 🌐 Connect with Me
+
+* 📧 [Email](mailto:hetpatel.contact@gmail.com)
+* 🐦 [X (Twitter)](https://x.com/het_dev)
+* 🎬 [YouTube](https://www.youtube.com/@het_dev)
